@@ -1,5 +1,5 @@
 COL106: Data Structures and Algorithms  
-This repository contains six programming assignments in Java covered in the Data Structures course at IIt Delhi
+This repository contains six programming assignments in Java covered in the Data Structures course at IIT Delhi
 
 Assignment 1: Matrix Manipulations using TwoDBlockMatrix  
 Assignment 2: Implementing Simple Calculator and Sorting using Stacks and Queues  
