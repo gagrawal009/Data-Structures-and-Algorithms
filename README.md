@@ -1,4 +1,4 @@
-#**COL106: Data Structures and Algorithms**
+<h1>COL106: Data Structures and Algorithms</h1>
 
 This repository contains six programming assignments in Java covered in the Data Structures course at IIT Delhi
 
